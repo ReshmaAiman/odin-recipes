@@ -1,0 +1,3 @@
+describing about things learnt so far...
+Got a basic knowledge about git and its basic commands..
+"The Odin Project",this website is very helful!!
